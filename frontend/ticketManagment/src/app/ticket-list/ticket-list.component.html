@@ -19,7 +19,9 @@
                     <td>{{ ticket.email }}</td>
                     <td>{{ ticket.ticketState }}</td>
                     <td>{{ ticket.createDate }}</td>
-                    <td><button>Chat</button></td>
+                    <td><button class="btn btn-success" (click)="goToChat(ticket)">
+                      <i class="bi bi-chat-dots"></i> Chat
+                  </button></td>
                 </tr>
             </tbody>
           </table>

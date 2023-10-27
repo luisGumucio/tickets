@@ -6,4 +6,5 @@ export class Ticket {
     email!: String;
     createDate!: Date;
     ticketState!: TicketState
+    department!: String
 }

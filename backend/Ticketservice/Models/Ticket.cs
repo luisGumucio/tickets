@@ -21,6 +21,9 @@ public class Ticket
     [Column("ticket_state", TypeName = "nvarchar(24)")]
     [Required]
     public TicketState TicketState {get; set;}
+    [Column("department")]
+    [Required]
+    public String Department { get; set; }
 
     public Ticket()
     {

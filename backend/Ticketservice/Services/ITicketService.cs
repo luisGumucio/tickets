@@ -7,4 +7,5 @@ public interface ITicketService
     Task<Ticket> CreateTicket(Ticket ticket);
     IEnumerable<Ticket> FindByEmail(string email);
     IEnumerable<Ticket> GetAllTickets();
+    void UpdateTicket(Ticket ticket);
 }

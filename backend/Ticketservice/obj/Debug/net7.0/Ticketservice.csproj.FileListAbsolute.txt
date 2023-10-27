@@ -70,3 +70,13 @@
 /Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/obj/Debug/net7.0/Ticketservice.genruntimeconfig.cache
 /Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/obj/Debug/net7.0/ref/Ticketservice.dll
 /Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/bin/Debug/net7.0/MassTransit.dll
+/Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/bin/Debug/net7.0/MassTransit.Abstractions.dll
+/Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/bin/Debug/net7.0/MassTransit.AspNetCoreIntegration.dll
+/Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/bin/Debug/net7.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+/Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/bin/Debug/net7.0/MassTransit.RabbitMqTransport.dll
+/Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/bin/Debug/net7.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/bin/Debug/net7.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Volumes/personal/personal/workspace/iatec-project/tickets/backend/Ticketservice/bin/Debug/net7.0/RabbitMQ.Client.dll

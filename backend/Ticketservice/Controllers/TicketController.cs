@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Ticketservice.Config;
 using Ticketservice.Models;
 using Ticketservice.Services;
 
@@ -34,7 +35,7 @@ public class TicketController : ControllerBase
     [HttpPost]
     public async Task<ActionResult> Create(Ticket ticket)
     {
-         await _ticketManagmentService.CreateTicket(ticket);
+        await _ticketManagmentService.CreateTicket(ticket);
         return Ok();
     }
 }
